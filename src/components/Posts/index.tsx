@@ -14,7 +14,6 @@ interface Posts {
 
 export function Posts() {
   const [posts, setPosts] = useState<Posts[]>([]);
-  const [liked, setLiked] = useState(false);
 
   useEffect(() => {
     api.get('/posts')

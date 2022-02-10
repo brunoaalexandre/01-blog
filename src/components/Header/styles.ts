@@ -36,11 +36,11 @@ export const Content = styled.div`
     input {
       width: 100%;
       padding: 1.313rem;
-      background: rgba(255, 255, 255, 0.2);
       color: #fff;
       border: none;
       border-radius: 5px;
       font-size: 1.125rem;
+      background: rgba(255, 255, 255, 0.2);
 
       ::placeholder {
         font-weight: 400;
