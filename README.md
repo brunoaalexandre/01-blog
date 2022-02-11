@@ -29,7 +29,7 @@ It's a simple project that's I did to practice React.
 
 #### NPM
 ```html
-  npm install
+  npm
 ```
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
